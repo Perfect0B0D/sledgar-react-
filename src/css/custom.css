@@ -1,0 +1,23 @@
+.swiper-button-prev{
+    display: none;
+}
+
+.swiper-button-next{
+    display: none;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.border-left-gray {
+    border-left: 1px solid #707070;
+}
